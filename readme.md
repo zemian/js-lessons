@@ -1,15 +1,19 @@
-# Web Development Lessons
+# js-lessons
 
-This repository contains lesson files for teaching web development.
+Lessons files for teaching JavaScript (JS) programming language.
 
-It contains four major sections:
+## Learning Path
 
-* [HTML](html)
-* [CSS](css)
-* [JavaScript (JS)](javascript)
-* [Website](website)
-* [NodeJS](nodejs)
+* `basic` - Learn the basic programming language syntax and construct
+* `commontasks` - Learn how to do some common tasks with the language
 
-## References
+## How to run
 
-* https://developer.mozilla.org/en-US/docs/Web
+Just open the `.html` files in your browser locally. Some lessons might need
+run a web server to see it.
+
+Some lessons require NodeJS to be install in order to run.
+
+## Reading List
+
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
