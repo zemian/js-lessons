@@ -6,7 +6,8 @@ Lesson files for teaching JavaScript (JS) programming language.
 
 * [Lesson 1 - Hello World](hello.js)
 * [Lesson 2 - Data Types](data-types.js)
-* [Lesson 3 - Array](array.js)
+* [Lesson 2 - Data Operators](data-operators.js)
+* [Lesson 3 - Data Containers](data-containers.js)
 * [Lesson 4 - Control Statements](constrol-statements.hs)
 * [Lesson 5 - Functions](functions.js)
 * [Lesson 6 - Object](object.js)
