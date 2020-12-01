@@ -1,4 +1,4 @@
-// Variable
+// Variable or sometimes called binding
 let greeting = "Hello World!";
 console.log(greeting);
 
